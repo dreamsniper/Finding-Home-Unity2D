@@ -209,6 +209,7 @@ public class PlayerController : MonoBehaviour
         myAnim.SetBool("wallSliding", wallSliding);
         myAnim.SetBool("isTouchingFront", isTouchingFront);
         myAnim.SetBool("doubleJumping", doubleJumping);
+        myAnim.SetBool("wallJumping", wallJumping);
     }
 
     private void SetWallJumpingFalse()
