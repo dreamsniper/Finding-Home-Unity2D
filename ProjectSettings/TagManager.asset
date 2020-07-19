@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - OnewayPlatform
+  - Bullet
+  - MovingPlatform
   layers:
   - Default
   - TransparentFX
@@ -17,8 +20,8 @@ TagManager:
   - Player
   - Foreground
   - Background
-  - 
-  - 
+  - Enemy
+  - Platform
   - 
   - 
   - 

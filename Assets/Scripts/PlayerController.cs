@@ -175,10 +175,11 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    /**public void OnTriggerEnter2D(Collider2D other)
+   public void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("MovingPlatform"))
         {
+            Debug.Log("Landed");
             player.transform.parent = other.gameObject.transform;
         }
     }
@@ -187,9 +188,10 @@ public class PlayerController : MonoBehaviour
     {
         if (other.gameObject.CompareTag("MovingPlatform"))
         {
+            Debug.Log("left");
             player.transform.parent = null;
         }
-    }**/
+    }
 
     public void Jump()
     {

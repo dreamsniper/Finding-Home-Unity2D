@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: b25b167d3f5ccc9419fc4b5e8dd60028
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5353968566675807504
+    second: Eclipse-Spritesheet_0
+  - first:
+      213: -7062995834028209664
+    second: Eclipse-Spritesheet_1
+  - first:
+      213: 2950133024825308117
+    second: Eclipse-Spritesheet_2
+  - first:
+      213: -6933329563562081957
+    second: Eclipse-Spritesheet_3
+  - first:
+      213: 476965672821851494
+    second: Eclipse-Spritesheet_4
+  - first:
+      213: -3553668190015471535
+    second: Eclipse-Spritesheet_5
+  - first:
+      213: 4466517391934832536
+    second: Eclipse-Spritesheet_6
+  - first:
+      213: -5940802281136085825
+    second: Eclipse-Spritesheet_7
+  - first:
+      213: -7245348658730728972
+    second: Eclipse-Spritesheet_8
+  - first:
+      213: -7162156969443043524
+    second: Eclipse-Spritesheet_9
+  - first:
+      213: -2094834101900320455
+    second: Eclipse-Spritesheet_10
+  - first:
+      213: -6613823931022137256
+    second: Eclipse-Spritesheet_11
+  - first:
+      213: -6986077595036018368
+    second: Eclipse-Spritesheet_12
+  - first:
+      213: 6158186212038075460
+    second: Eclipse-Spritesheet_13
+  - first:
+      213: 8524420166145221110
+    second: Eclipse-Spritesheet_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eclipse-Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 13.542589
+        y: 365.99994
+        width: 53.841568
+        height: 145.28
+      alignment: 9
+      pivot: {x: 0.50068027, y: 0.49903676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf5bf01d474fbe4f8573ed7918c8885
+      internalID: 5353968566675807504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eclipse-Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 100.42749
+        y: 363.2387
+        width: 53.44011
+        height: 148.76129
+      alignment: 9
+      pivot: {x: 0.46045887, y: 0.54914343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2479f3aea0eda41a0d1cb49bbe1578
+      internalID: -7062995834028209664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eclipse-Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 157.73141
+        y: 366.22983
+        width: 117.058624
+        height: 139.99493
+      alignment: 9
+      pivot: {x: 0.4833186, y: 0.51000553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f5350b6dc744d409e3001906a9e511
+      internalID: 2950133024825308117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eclipse-Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 367
+        width: 114
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22da7af3dd5eb4449572c5634d26638
+      internalID: -6933329563562081957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eclipse-Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 368
+        width: 114
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a35dd98bc0def47a3d81a2edc76d48
+      internalID: 476965672821851494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eclipse-Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 16.214996
+        y: 202.48326
+        width: 82.69322
+        height: 154.1125
+      alignment: 9
+      pivot: {x: 0.49320853, y: 0.502988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966b2f91a6a55ab44aa91b57a30459cd
+      internalID: -3553668190015471535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eclipse-Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 99.894775
+        y: 204.17494
+        width: 82.37814
+        height: 155.22755
+      alignment: 9
+      pivot: {x: 0.5232597, y: 0.4723722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad1f026ed1129d409330bfafcdf359c
+      internalID: 4466517391934832536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eclipse-Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 220.48581
+        y: 132.35545
+        width: 98.78146
+        height: 240.5287
+      alignment: 9
+      pivot: {x: 0.49618816, y: 0.4766356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dbc62c94ff86745b6d4183328c35bb
+      internalID: -5940802281136085825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eclipse-Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 328.57074
+        y: 62.730232
+        width: 81.04678
+        height: 193.58887
+      alignment: 9
+      pivot: {x: 0.4301609, y: 0.5536299}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec46014279aedd443a85059d4ed324d2
+      internalID: -7245348658730728972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eclipse-Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 425.47192
+        y: 188.25246
+        width: 76.528076
+        height: 180.74754
+      alignment: 9
+      pivot: {x: 0.4076438, y: 0.47880924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1212cfdd3fb71ca4e93a5120387a3446
+      internalID: -7162156969443043524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eclipse-Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 9.493424
+        y: 7.3
+        width: 87.31777
+        height: 173.1691
+      alignment: 9
+      pivot: {x: 0.4982557, y: 0.53034854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8551ba71244a604c809a71cd5144e26
+      internalID: -2094834101900320455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eclipse-Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 116.96566
+        y: 4.008979
+        width: 88.45515
+        height: 173.1645
+      alignment: 9
+      pivot: {x: 0.4276788, y: 0.49947318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3feae9616101a4aa1ffebd3d16f3a5
+      internalID: -6613823931022137256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eclipse-Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 421.46057
+        y: 92.8247
+        width: 90.53943
+        height: 99.00002
+      alignment: 9
+      pivot: {x: 0.4780622, y: 0.4739326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7ee9aa28c59174cbb8296d49c36d32
+      internalID: -6986077595036018368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eclipse-Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 395.1891
+        y: 7.864771
+        width: 92.97266
+        height: 92.10827
+      alignment: 9
+      pivot: {x: 0.51631266, y: 0.59272856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7944b7c3078f554499467c00682c4bc
+      internalID: 6158186212038075460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eclipse-Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 138
+        width: 4
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96faab70aa33837498445dcd6b0e656c
+      internalID: 8524420166145221110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 637289713720000000
+  assetBundleName: 
+  assetBundleVariant: 
