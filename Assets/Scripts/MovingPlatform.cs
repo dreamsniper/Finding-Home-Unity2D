@@ -4,35 +4,19 @@ using UnityEngine;
 
 public class MovingPlatform : MonoBehaviour
 {
-    public Transform pos1, pos2;
-    public float speed;
-    public Transform startPos;
+    public Vector3 pos1;
+    public Vector3 pos2;
+    public float speed = 1.0f;
 
-    Vector3 nextPos;
-
-    // Start is called before the first frame update
-    void Start()
+    private void Update()
     {
-        nextPos = startPos.position;
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        if(transform.position == pos1.position)
-        {
-            nextPos = pos2.position;
-        }
-        if(transform.position == pos2.position)
-        {
-            nextPos = pos1.position;
-        }
-
-        transform.position = Vector3.MoveTowards(transform.position, nextPos, speed * Time.deltaTime);
+        transform.position = Vector3.Lerp(pos1, pos2, Mathf.PingPong(Time.time * speed, 1.0f));
     }
 
     private void OnDrawGizmos()
     {
-        Gizmos.DrawLine(pos1.position, pos2.position);
+        Gizmos.DrawLine(pos1, pos2);
     }
+
+
 }

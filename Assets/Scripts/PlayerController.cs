@@ -21,7 +21,6 @@ public class PlayerController : MonoBehaviour
     public float xWallForce;
     public float yWallForce;
     public float wallJumpTime;
-    public GameObject player;
 
     //player ability toggles
     public bool doubleJumping;
@@ -39,8 +38,10 @@ public class PlayerController : MonoBehaviour
     private float moveUp;
     private readonly float groundCheckRadius = 0.2f;
     private int extraJumps;
-    private readonly float FireRate = 0.5f;
+    private readonly float FireRate = 1f;
     private float nextFire = 0f;
+    private bool _facingForward;
+
 
     // Start is called before the first frame update
     void Start()
@@ -77,12 +78,12 @@ public class PlayerController : MonoBehaviour
         //checks to see if you pressed left or right and faces character accordingly
         if (move > 0)
         {
-            //sr.flipX = false;
+            _facingForward = false;
             transform.eulerAngles = new Vector3(0, 0, 0);
         }
         else if (move < 0)
         {
-            //sr.flipX = true;
+            _facingForward = true;
             transform.eulerAngles = new Vector3(0, 180, 0);
         }
 
@@ -163,11 +164,12 @@ public class PlayerController : MonoBehaviour
             if (Time.time > nextFire)
             {
                 nextFire = Time.time + FireRate;
-                if (sr.flipX == false)
+
+                if (_facingForward == false)
                 {
                     Instantiate(bullet, projectileTip.position, Quaternion.Euler(new Vector3(0, 0, 0)));
                 }
-                else if (sr.flipX == true)
+                else if (_facingForward == true)
                 {
                     Instantiate(bullet, projectileTip.position, Quaternion.Euler(new Vector3(0, 0, 180f)));
                 }
@@ -175,23 +177,22 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-   public void OnTriggerEnter2D(Collider2D other)
+    void OnCollisionEnter2D(Collision2D other)
     {
         if (other.gameObject.CompareTag("MovingPlatform"))
         {
-            Debug.Log("Landed");
-            player.transform.parent = other.gameObject.transform;
+            this.transform.parent = other.transform;
         }
     }
 
-    private void OnTriggerExit2D(Collider2D other)
+    private void OnCollisionExit2D(Collision2D other)
     {
         if (other.gameObject.CompareTag("MovingPlatform"))
         {
-            Debug.Log("left");
-            player.transform.parent = null;
+            this.transform.parent = null;
         }
     }
+
 
     public void Jump()
     {

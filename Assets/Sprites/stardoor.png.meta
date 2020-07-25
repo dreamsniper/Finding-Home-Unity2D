@@ -48,7 +48,7 @@ TextureImporter:
       213: 5843752313448373820
     second: stardoor_14
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -90,7 +90,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 50
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -102,7 +102,6 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -207,10 +206,10 @@ TextureImporter:
       name: stardoor_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 58
-        width: 31
-        height: 32
+        x: 0
+        y: 50
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,7 +217,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4b6e4ba6e3702d60800000000000000
+      spriteID: 1284b3a0d9ecec54e986d32f568c28a7
       internalID: 7863412383942601548
       vertices: []
       indices: 
@@ -230,7 +229,7 @@ TextureImporter:
         serializedVersion: 2
         x: 50
         y: 50
-        width: 51
+        width: 50
         height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -239,7 +238,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db212ac2f5ca6a5f0800000000000000
+      spriteID: f25e6362be9637f48bfd42cc217f4425
       internalID: -745719163512548675
       vertices: []
       indices: 
@@ -249,10 +248,10 @@ TextureImporter:
       name: stardoor_2
       rect:
         serializedVersion: 2
-        x: 112
-        y: 58
-        width: 31
-        height: 32
+        x: 100
+        y: 50
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -260,7 +259,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e88406e214eea8e60800000000000000
+      spriteID: 0d8430e7d23e03842b741e030ab9c175
       internalID: 7965440854676490382
       vertices: []
       indices: 
@@ -281,7 +280,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3dea97a894a6f60c0800000000000000
+      spriteID: bc58d36dd39558a4ea05630210293059
       internalID: -4580325431924117805
       vertices: []
       indices: 
@@ -291,10 +290,10 @@ TextureImporter:
       name: stardoor_4
       rect:
         serializedVersion: 2
-        x: 60
-        y: 6
-        width: 31
-        height: 32
+        x: 50
+        y: 0
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -302,7 +301,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fffcd733314465280800000000000000
+      spriteID: b504263022bbb734a9115ba9f032d647
       internalID: -9054975151522852865
       vertices: []
       indices: 
@@ -312,9 +311,9 @@ TextureImporter:
       name: stardoor_5
       rect:
         serializedVersion: 2
-        x: 101
+        x: 100
         y: 0
-        width: 49
+        width: 50
         height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -323,7 +322,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5736fb08798b6fe0800000000000000
+      spriteID: 214d738bbae9c6d45b7030ff24b80f96
       internalID: -1194710127446968484
       vertices: []
       indices: 

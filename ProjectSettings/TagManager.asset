@@ -7,6 +7,10 @@ TagManager:
   - OnewayPlatform
   - Bullet
   - MovingPlatform
+  - Coins
+  - Enemy
+  - Ground
+  - Wall
   layers:
   - Default
   - TransparentFX
@@ -22,7 +26,7 @@ TagManager:
   - Background
   - Enemy
   - Platform
-  - 
+  - Shootable
   - 
   - 
   - 
