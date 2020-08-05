@@ -12,16 +12,21 @@ public class FallingPlatform : MonoBehaviour
         myRB = GetComponent<Rigidbody2D>();
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnCollisionEnter2D(Collision2D other)
     {
-        if (collision.gameObject.name.Equals("Player"))
+        if (other.gameObject.name.Equals("Player"))
         {
-            PlatformManager.Instance.StartCoroutine("SpawnPlatform", new Vector2(transform.position.x, transform.position.y));
-            Invoke("DropPlatform", 0.5f);
-            Destroy(gameObject, 2f);
+            PlayerController player = other.gameObject.GetComponent<PlayerController>();
+
+            if (player.grounded)
+            {
+                PlatformManager.Instance.StartCoroutine("SpawnPlatform", new Vector2(transform.position.x, transform.position.y));
+                Invoke("DropPlatform", 0.5f);
+                Destroy(gameObject, 2f);
+            }
         }
     }
-
+     
     void DropPlatform()
     {
         myRB.isKinematic = false;

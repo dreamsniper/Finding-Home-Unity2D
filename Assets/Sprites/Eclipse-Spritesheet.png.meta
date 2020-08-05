@@ -48,7 +48,7 @@ TextureImporter:
       213: 8524420166145221110
     second: Eclipse-Spritesheet_14
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -68,6 +68,7 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -102,6 +103,8 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -374,10 +377,10 @@ TextureImporter:
       name: Eclipse-Spritesheet_8
       rect:
         serializedVersion: 2
-        x: 328.57074
-        y: 62.730232
-        width: 81.04678
-        height: 193.58887
+        x: 329
+        y: 70
+        width: 74
+        height: 186
       alignment: 9
       pivot: {x: 0.4301609, y: 0.5536299}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -458,13 +461,13 @@ TextureImporter:
       name: Eclipse-Spritesheet_12
       rect:
         serializedVersion: 2
-        x: 421.46057
-        y: 92.8247
-        width: 90.53943
-        height: 99.00002
+        x: 421
+        y: 96
+        width: 91
+        height: 90
       alignment: 9
       pivot: {x: 0.4780622, y: 0.4739326}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 4, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -505,7 +508,7 @@ TextureImporter:
         width: 4
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -530,6 +533,6 @@ TextureImporter:
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
-  userData: 637289713720000000
+  userData: 637319218397032434
   assetBundleName: 
   assetBundleVariant: 

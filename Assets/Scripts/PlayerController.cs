@@ -7,7 +7,6 @@ public class PlayerController : MonoBehaviour
     //public variables
     //movement variables
     public float maxSpeed;
-    public SpriteRenderer sr;
     public LayerMask groundLayer;
     public Transform groundCheck;
     public float jumpHeight;
@@ -145,9 +144,10 @@ public class PlayerController : MonoBehaviour
         }
 
         //wallJump code
-        if (Input.GetKeyDown(KeyCode.Space) && wallSliding)
+        if (Input.GetKeyDown(KeyCode.Space) && isTouchingFront)
         {
             wallJumping = true;
+            grounded = false;
             //delays setting wall jump to false without coroutine
             Invoke("SetWallJumpingFalse", wallJumpTime);
         }
@@ -196,6 +196,7 @@ public class PlayerController : MonoBehaviour
 
     public void Jump()
     {
+        grounded = false;
         myRB.velocity = new Vector2(myRB.velocity.x, 0);
         myRB.velocity = Vector2.up * jumpHeight;
     }
