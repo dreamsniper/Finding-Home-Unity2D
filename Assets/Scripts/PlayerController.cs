@@ -25,6 +25,8 @@ public class PlayerController : MonoBehaviour
     public bool doubleJumping;
     public bool wallSliding;
     public bool wallJumping;
+    public bool canShoot = true;
+    public bool shooting;
 
     //player state variables
     public bool grounded = false;
@@ -48,7 +50,6 @@ public class PlayerController : MonoBehaviour
         //initialize RB and Anim
         myRB = GetComponent<Rigidbody2D>();
         myAnim = GetComponent<Animator>();
-
         extraJumps = extraJumpsValue;
     }
 
@@ -96,22 +97,39 @@ public class PlayerController : MonoBehaviour
         if ((isTouchingFront) && !grounded && move != 0)
         {
             wallSliding = true;
+
+            //Wallsliding
+            if (wallSliding)
+            {
+                myRB.velocity = new Vector2(myRB.velocity.x, Mathf.Clamp(myRB.velocity.y, -wallSlidingSpeed, float.MaxValue));
+            }
         }
         else
         {
             wallSliding = false;
         }
 
+        if (wallJumping && _facingForward)
+        {
+            transform.eulerAngles = new Vector3(0, 0, 0);
+            myRB.velocity = new Vector2(-xWallForce * move, yWallForce);
+        }
+        else if(wallJumping && !_facingForward)
+        {
+            transform.eulerAngles = new Vector3(0, 180, 0);
+            myRB.velocity = new Vector2(-xWallForce * move, yWallForce);  
+        }
         SetAnimator();
-
     }
 
     // Update is called once per frame
     private void Update()
     {
+        shooting = false;
+
         if (Input.GetKey(KeyCode.Space))
         {
-            if (grounded == true)
+            if (grounded)
             {
                 Jump();
                 grounded = false;
@@ -136,12 +154,6 @@ public class PlayerController : MonoBehaviour
             }
         }
 
-        //wallSliding
-
-        if (wallSliding)
-        {
-            myRB.velocity = new Vector2(myRB.velocity.x, Mathf.Clamp(myRB.velocity.y, -wallSlidingSpeed, float.MaxValue));
-        }
 
         //wallJump code
         if (Input.GetKeyDown(KeyCode.Space) && isTouchingFront)
@@ -152,26 +164,25 @@ public class PlayerController : MonoBehaviour
             Invoke("SetWallJumpingFalse", wallJumpTime);
         }
 
-        if (wallJumping)
+        if (canShoot)
         {
-            myRB.velocity = new Vector2(xWallForce * -move, yWallForce);
-
-        }
-
-        //player shooting fire with left click (Fireball code)
-        if (Input.GetAxisRaw("Fire1") > 0)
-        {
-            if (Time.time > nextFire)
+            //player shooting fire with left click (Fireball code)
+            if (Input.GetAxisRaw("Fire1") > 0)
             {
-                nextFire = Time.time + FireRate;
+                shooting = true;
 
-                if (_facingForward == false)
+                if (Time.time > nextFire)
                 {
-                    Instantiate(bullet, projectileTip.position, Quaternion.Euler(new Vector3(0, 0, 0)));
-                }
-                else if (_facingForward == true)
-                {
-                    Instantiate(bullet, projectileTip.position, Quaternion.Euler(new Vector3(0, 0, 180f)));
+                    nextFire = Time.time + FireRate;
+
+                    if (_facingForward == false)
+                    {
+                        Instantiate(bullet, projectileTip.position, Quaternion.Euler(new Vector3(0, 0, 0)));
+                    }
+                    else if (_facingForward == true)
+                    {
+                        Instantiate(bullet, projectileTip.position, Quaternion.Euler(new Vector3(0, 0, 180f)));
+                    }
                 }
             }
         }
@@ -196,14 +207,14 @@ public class PlayerController : MonoBehaviour
 
     public void Jump()
     {
-        grounded = false;
         myRB.velocity = new Vector2(myRB.velocity.x, 0);
         myRB.velocity = Vector2.up * jumpHeight;
     }
 
     public void TouchedJumpOrb()
     {
-        Jump();
+        myRB.velocity = new Vector2(myRB.velocity.x, 0);
+        myRB.velocity = Vector2.up * jumpHeight * 2;
     }
 
     private void SetAnimator()
@@ -214,6 +225,7 @@ public class PlayerController : MonoBehaviour
         myAnim.SetBool("isTouchingFront", isTouchingFront);
         myAnim.SetBool("doubleJumping", doubleJumping);
         myAnim.SetBool("wallJumping", wallJumping);
+        myAnim.SetBool("shooting", shooting);
     }
 
     private void SetWallJumpingFalse()

@@ -14,7 +14,8 @@ public class RestartGame : MonoBehaviour
     {
         if (restartNow && resetTime <= Time.time)
         {
-            SceneManager.LoadScene(0);
+            //SceneManager.LoadScene(0);
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
     }
 
