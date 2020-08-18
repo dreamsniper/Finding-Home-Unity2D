@@ -12,10 +12,9 @@ public class WinGame : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D other)
     {
-        haswon = true;
-
         if (other.CompareTag("Player"))
         {
+            haswon = true;
             PlayerHealth playerWins = other.gameObject.GetComponent<PlayerHealth>();
             playerWins.WinGame();
         }

@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/Anima2d-Player.unity
+    guid: 32f7e81567e21a642bc9fc2b23c904a4
   m_configObjects: {}

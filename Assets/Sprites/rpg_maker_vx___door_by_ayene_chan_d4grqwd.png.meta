@@ -1,0 +1,2367 @@
+fileFormatVersion: 2
+guid: ddbe17ce1e8b03b4ba668740576cf073
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5591481356272068155
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_0
+  - first:
+      213: 2636855303575339795
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_1
+  - first:
+      213: 4419285246052521882
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_2
+  - first:
+      213: -8360576966866131613
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_3
+  - first:
+      213: 3136454946231543498
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_4
+  - first:
+      213: -6360244872311886331
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_5
+  - first:
+      213: -7868541557603411453
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_6
+  - first:
+      213: -3308363898549214035
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_7
+  - first:
+      213: 6558285979984700913
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_8
+  - first:
+      213: 4546403023633280194
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_9
+  - first:
+      213: -5834523039270770738
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_10
+  - first:
+      213: -5101809149330323803
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_11
+  - first:
+      213: 7488964494905230223
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_12
+  - first:
+      213: 2178649811689678745
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_13
+  - first:
+      213: 3257941400478118072
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_14
+  - first:
+      213: -7538411643424722322
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_15
+  - first:
+      213: 7370099698161173468
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_16
+  - first:
+      213: 6861553011816260022
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_17
+  - first:
+      213: 8389721064967501691
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_18
+  - first:
+      213: 6210321359526895797
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_19
+  - first:
+      213: -5188481197812785275
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_20
+  - first:
+      213: 5817217360597029915
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_21
+  - first:
+      213: -154111282404237496
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_22
+  - first:
+      213: -6720742105757670382
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_23
+  - first:
+      213: 1747127694610122953
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_24
+  - first:
+      213: 1937375609263035168
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_25
+  - first:
+      213: -3677000033573846634
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_26
+  - first:
+      213: -7727146766417191666
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_27
+  - first:
+      213: 135756490621505042
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_28
+  - first:
+      213: -7573920649060028258
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_29
+  - first:
+      213: -9008915348342665304
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_30
+  - first:
+      213: -1783324140037264267
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_31
+  - first:
+      213: 604206545955535149
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_32
+  - first:
+      213: -3605885056827713578
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_33
+  - first:
+      213: 5734936800081555831
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_34
+  - first:
+      213: -5578684203128750328
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_35
+  - first:
+      213: -5214621519187150116
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_36
+  - first:
+      213: 3511111892399877429
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_37
+  - first:
+      213: -7377644670435089764
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_38
+  - first:
+      213: -930446617103923354
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_39
+  - first:
+      213: 53951306867410447
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_40
+  - first:
+      213: 9197984307253838703
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_41
+  - first:
+      213: -6896129075790107391
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_42
+  - first:
+      213: 1701190671359786586
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_43
+  - first:
+      213: 4702909383282624530
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_44
+  - first:
+      213: 2494816420599902793
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_45
+  - first:
+      213: -7280714716687346297
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_46
+  - first:
+      213: -1126641252669162897
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_47
+  - first:
+      213: 6732400251568127771
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_48
+  - first:
+      213: -551672371595139640
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_49
+  - first:
+      213: 8715241609405981084
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_50
+  - first:
+      213: -7288524586112170771
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_51
+  - first:
+      213: 5627287485319532857
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_52
+  - first:
+      213: -7435570524598195874
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_53
+  - first:
+      213: -4268374548516987785
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_54
+  - first:
+      213: -1600752434412373730
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_55
+  - first:
+      213: -1813763164740357453
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_56
+  - first:
+      213: -2627956836890062391
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_57
+  - first:
+      213: 188116188608513182
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_58
+  - first:
+      213: 3840127051954343829
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_59
+  - first:
+      213: -8134363593685365694
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_60
+  - first:
+      213: -232801158395733099
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_61
+  - first:
+      213: 7339731456966703242
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_62
+  - first:
+      213: -6714561585313092795
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_63
+  - first:
+      213: 1903277261254562295
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_64
+  - first:
+      213: -3974210557281341265
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_65
+  - first:
+      213: 3484084412549572211
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_66
+  - first:
+      213: 4572983749375317359
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_67
+  - first:
+      213: -6607995610521900290
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_68
+  - first:
+      213: -3141995277661746184
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_69
+  - first:
+      213: 7229749423629709604
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_70
+  - first:
+      213: 3554670198421824841
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_71
+  - first:
+      213: -4695099211263618808
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_72
+  - first:
+      213: -8481231921233762879
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_73
+  - first:
+      213: 2444794256245158510
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_74
+  - first:
+      213: -2021763619000278464
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_75
+  - first:
+      213: -1519709247170577537
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_76
+  - first:
+      213: -6009094878209220475
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_77
+  - first:
+      213: 1089647802687683865
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_78
+  - first:
+      213: 6156559450773257800
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_79
+  - first:
+      213: 4259946167093671214
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_80
+  - first:
+      213: 989065986231675751
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_81
+  - first:
+      213: -8848035150684148014
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_82
+  - first:
+      213: 3284957032196248333
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_83
+  - first:
+      213: 2972104145789045175
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_84
+  - first:
+      213: 5250855222223107022
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_85
+  - first:
+      213: -5232560165525626187
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_86
+  - first:
+      213: 7178564742733691532
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_87
+  - first:
+      213: -2694107870774725295
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_88
+  - first:
+      213: -4567482769048240665
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_89
+  - first:
+      213: 1722940526399767756
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_90
+  - first:
+      213: 1165760931816920078
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_91
+  - first:
+      213: -7669561822173998001
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_92
+  - first:
+      213: -8662352984624216641
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_93
+  - first:
+      213: -3914226778170912464
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_94
+  - first:
+      213: 7326590031886717163
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_95
+  - first:
+      213: 3406810903349950196
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_96
+  - first:
+      213: -8002829680801242600
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_97
+  - first:
+      213: -2552835192619111961
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_98
+  - first:
+      213: 3514890427657563747
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_99
+  - first:
+      213: -1446715595599404257
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_100
+  - first:
+      213: 1973280473802308672
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_101
+  - first:
+      213: 7427142123181919294
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_102
+  - first:
+      213: -5625129779901288961
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_103
+  - first:
+      213: 6898301611838937791
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_104
+  - first:
+      213: -5281104203110913620
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_105
+  - first:
+      213: 368456055075827891
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_106
+  - first:
+      213: 6576710621017002873
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_107
+  - first:
+      213: 1758199221804212015
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_108
+  - first:
+      213: -2282851437834160909
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_109
+  - first:
+      213: 9064289093938582393
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_110
+  - first:
+      213: -4691774356256527711
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_111
+  - first:
+      213: -6379584204568685213
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_112
+  - first:
+      213: -3367961451864585378
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_113
+  - first:
+      213: -154420626504577871
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_114
+  - first:
+      213: 2877688328209381831
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_115
+  - first:
+      213: 734899829478074754
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_116
+  - first:
+      213: 8709466931275244479
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_117
+  - first:
+      213: 1149902172207559059
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_118
+  - first:
+      213: -5938649209487348129
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_119
+  - first:
+      213: -402485489760735025
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_120
+  - first:
+      213: 8359149650495027096
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_121
+  - first:
+      213: 2655038985169585856
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_122
+  - first:
+      213: 8137633567282954406
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_123
+  - first:
+      213: 2075748010621706806
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_124
+  - first:
+      213: -8474178206850924891
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_125
+  - first:
+      213: -7433437832604186412
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_126
+  - first:
+      213: -6215117974858025836
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_127
+  - first:
+      213: 2248166265344339765
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_128
+  - first:
+      213: -4649181311391483430
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_129
+  - first:
+      213: -5229254901281420621
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_130
+  - first:
+      213: 5994393419476517302
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_131
+  - first:
+      213: -490328727839715823
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_132
+  - first:
+      213: -2581869927385188548
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_133
+  - first:
+      213: -6247001641359272974
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_134
+  - first:
+      213: -4628763719273508856
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_135
+  - first:
+      213: -3926729116423716058
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_136
+  - first:
+      213: 4971238896810015400
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_137
+  - first:
+      213: -7231842374162045456
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_138
+  - first:
+      213: -113819224885280660
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_139
+  - first:
+      213: -1295913340656413146
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_140
+  - first:
+      213: -285685954603595398
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_141
+  - first:
+      213: 318725388016319177
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_142
+  - first:
+      213: -5882159057226157143
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_143
+  - first:
+      213: 4022790910444012157
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_144
+  - first:
+      213: 401662694595773912
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_145
+  - first:
+      213: -205838830528346844
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_146
+  - first:
+      213: -2265599134106570268
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_147
+  - first:
+      213: -7703938724939858774
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_148
+  - first:
+      213: -1678676233997590340
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_149
+  - first:
+      213: -6173585183747530493
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_150
+  - first:
+      213: -8410414607945203885
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_151
+  - first:
+      213: 7898079331526143914
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_152
+  - first:
+      213: -697468725245763551
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_153
+  - first:
+      213: -483180585442320232
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_154
+  - first:
+      213: 8890117470615558833
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_155
+  - first:
+      213: 62130631844150419
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_156
+  - first:
+      213: -2750272354398610578
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_157
+  - first:
+      213: -4039451995009384874
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_158
+  - first:
+      213: -2874416430103181581
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_159
+  - first:
+      213: 7174871440963178959
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_160
+  - first:
+      213: -5941914906115415067
+    second: rpg_maker_vx___door_by_ayene_chan_d4grqwd_161
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36e0d82baee89d40800000000000000
+      internalID: 5591481356272068155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31386bd8dedf79420800000000000000
+      internalID: 2636855303575339795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97d5145484745d30800000000000000
+      internalID: 4419285246052521882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365a1ac7b8349fb80800000000000000
+      internalID: -8360576966866131613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6e52ce72de68b20800000000000000
+      internalID: 3136454946231543498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ea9559cfedbb7a0800000000000000
+      internalID: -6360244872311886331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a56a684235dc290800000000000000
+      internalID: -7868541557603411453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da46f3f00945612d0800000000000000
+      internalID: -3308363898549214035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5a96cf956b30b50800000000000000
+      internalID: 6558285979984700913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc6c6d4671181f30800000000000000
+      internalID: 4546403023633280194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7ee6a553c970fa0800000000000000
+      internalID: -5834523039270770738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a60456fb9bb239b0800000000000000
+      internalID: -5101809149330323803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83c656a7852ee760800000000000000
+      internalID: 7488964494905230223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9972cb3f57e1c3e10800000000000000
+      internalID: 2178649811689678745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b079824178863d20800000000000000
+      internalID: 3257941400478118072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62300fec8e226790800000000000000
+      internalID: -7538411643424722322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd34c1480aad74660800000000000000
+      internalID: 7370099698161173468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1e1d43c12293f50800000000000000
+      internalID: 6861553011816260022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77fff1abd64e6470800000000000000
+      internalID: 8389721064967501691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b02f9f6f5e7f2650800000000000000
+      internalID: 6210321359526895797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f539027dfcef7b0800000000000000
+      internalID: -5188481197812785275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b141f975e58eab050800000000000000
+      internalID: 5817217360597029915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f5a6cea9c7cddf0800000000000000
+      internalID: -154111282404237496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214ad4fa9a02bb2a0800000000000000
+      internalID: -6720742105757670382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8cb7ea16b0f3810800000000000000
+      internalID: 1747127694610122953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02311aa1ad0f2ea10800000000000000
+      internalID: 1937375609263035168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6914bb773fba8fcc0800000000000000
+      internalID: -3677000033573846634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d1564c4f8a3c490800000000000000
+      internalID: -7727146766417191666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ec2771fcd42e100800000000000000
+      internalID: 135756490621505042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90f7cb4c4704e690800000000000000
+      internalID: -7573920649060028258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af8872d837e9f280800000000000000
+      internalID: -9008915348342665304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c23b1a42c5047e0800000000000000
+      internalID: -1783324140037264267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2935aef6a2926800800000000000000
+      internalID: 604206545955535149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d715e645a255fdc0800000000000000
+      internalID: -3605885056827713578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7713d2a72a6969f40800000000000000
+      internalID: 5734936800081555831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f7d6e36488492b0800000000000000
+      internalID: -5578684203128750328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdafdb64b51f1a7b0800000000000000
+      internalID: -5214621519187150116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53de429d9a9f9b030800000000000000
+      internalID: 3511111892399877429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92a9abb2475d9990800000000000000
+      internalID: -7377644670435089764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6678e014bb36613f0800000000000000
+      internalID: -930446617103923354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0600018d6cafb000800000000000000
+      internalID: 53951306867410447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f638b739efdc5af70800000000000000
+      internalID: 9197984307253838703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10da94094270c40a0800000000000000
+      internalID: -6896129075790107391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ebb9df6e7db9710800000000000000
+      internalID: 1701190671359786586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2188961ca27144140800000000000000
+      internalID: 4702909383282624530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9423ba1015e5f9220800000000000000
+      internalID: 2494816420599902793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78554e04a84b5fa90800000000000000
+      internalID: -7280714716687346297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a7a59ffbd5d50f0800000000000000
+      internalID: -1126641252669162897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ff778eb5a4e6d50800000000000000
+      internalID: 6732400251568127771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5aca2a6e01858f0800000000000000
+      internalID: -551672371595139640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91e8548112c2f870800000000000000
+      internalID: 8715241609405981084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de445145185f9da90800000000000000
+      internalID: -7288524586112170771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931d87b3724281e40800000000000000
+      internalID: 5627287485319532857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59a5f2d00c8fc890800000000000000
+      internalID: -7435570524598195874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c935386ffa3c4c0800000000000000
+      internalID: -4268374548516987785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19328d542cf8c9e0800000000000000
+      internalID: -1600752434412373730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b276fae20834d6e0800000000000000
+      internalID: -1813763164740357453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1db1c2e2f978bd0800000000000000
+      internalID: -2627956836890062391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94c2864da25c9200800000000000000
+      internalID: 188116188608513182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f4b18353fda4530800000000000000
+      internalID: 3840127051954343829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c8384c86fec1f80800000000000000
+      internalID: -8134363593685365694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bd582749ce4ccf0800000000000000
+      internalID: -232801158395733099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88b24f5fd6fbd560800000000000000
+      internalID: 7339731456966703242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bedec30d511d2a0800000000000000
+      internalID: -6714561585313092795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1182ac59cc96a10800000000000000
+      internalID: 1903277261254562295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa073aeed84c8d8c0800000000000000
+      internalID: -3974210557281341265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3762e715054f95030800000000000000
+      internalID: 3484084412549572211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f655629cd70867f30800000000000000
+      internalID: 4572983749375317359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa608db00fab44a0800000000000000
+      internalID: -6607995610521900290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb440521f36564d0800000000000000
+      internalID: -3141995277661746184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421b882cbca355460800000000000000
+      internalID: 7229749423629709604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945a99646b9b45130800000000000000
+      internalID: 3554670198421824841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8015a6f9428a7deb0800000000000000
+      internalID: -4695099211263618808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5682dc08c9c4a80800000000000000
+      internalID: -8481231921233762879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6278684c67ade120800000000000000
+      internalID: 2444794256245158510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0422ea543b041f3e0800000000000000
+      internalID: -2021763619000278464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b7580dd78e8eae0800000000000000
+      internalID: -1519709247170577537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58068babb086b9ca0800000000000000
+      internalID: -6009094878209220475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dfb7147e43f1f00800000000000000
+      internalID: 1089647802687683865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ef9ed933e707550800000000000000
+      internalID: 6156559450773257800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx___door_by_ayene_chan_d4grqwd_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25b7e3087e5e1b30800000000000000
+      internalID: 4259946167093671214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 1eecc90f1fc2edf49b08db1dace69c46, type: 3}
+      name: _Emission
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

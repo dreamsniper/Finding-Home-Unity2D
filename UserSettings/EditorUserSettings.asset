@@ -5,6 +5,12 @@ EditorUserSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 4
   m_ConfigSettings:
+    UnityEditor.ShaderGraph.FloatingWindowsLayout2:
+      value: 181344140043005e1a220d3b1f364b524c0c5a27130c293326201334cee5322ca0bd30e8eb293a707b0fd0180b3d0a36fc0d3d04e649501f031bf84253f22f2514d70ccc19c91333cd1f0fcbd95f8bb39b8698a8d5d4cfd7ccd6bafdfae4eff4daf7a3e8afbcbe9afae1aefdedcff8f7c8d0b28696dd8bdff8888583ef9d8b8a808fd38f8ddf8a8f8bdcf9c1e089e5fec7f2f2d8c5b884e7df9c90b363b8ad6f67756c96bda1b995a9fb3798307dbbac7d748d70798da3898f863dd6809c848a0ed894a46294999068904aaa6e5f223975477d50261a62536d6c7e4a546e207f0a2022692d6f35727f61600e064d41604a533c5135365851361048072c5743160b0b490410145468392b3b264c79396131644f757040667b655f295f68b36e60ad6129fba977e43afefae910c0113ae6fff2ef39051203525712bf0b809a404892894699974a4c4c4cb39849b346b05390f3abb182bbbaa5a7b88bb8a489a4aaa5f4acf5acb5e2
+      flags: 0
+    UnityEditor.ShaderGraph.ToggleSettings:
+      value: 18135d1527590858060c032302276919051e1a26296a7c243f3c187fa0e92708f0e220e0e22d09352a0bed30017c5b2be01f0c47b40805071e1ccd1c1ee9191714d75a9f58943113c51c428cd0
+      flags: 0
     vcSharedLogLevel:
       value: 0d5e400f0650
       flags: 0
@@ -15,7 +21,5 @@ EditorUserSettings:
   m_SemanticMergeMode: 2
   m_VCShowFailedCheckout: 1
   m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCOverlayIcons: 1
   m_VCAllowAsyncUpdate: 0
-  m_AssetPipelineMode: 0
-  m_CacheServerMode: 0
-  m_CacheServers: []

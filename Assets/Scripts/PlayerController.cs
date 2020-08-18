@@ -6,15 +6,15 @@ public class PlayerController : MonoBehaviour
 {
     //public variables
     //movement variables
-    public float maxSpeed;
     public LayerMask groundLayer;
     public Transform groundCheck;
-    public float jumpHeight;
-    public int extraJumpsValue;
     public Transform projectileTip;
     public GameObject bullet;
-    public bool isTouchingFront;
     public Transform frontCheck;
+    public float maxSpeed;
+    public float jumpHeight;
+    public int extraJumpsValue;
+    public bool isTouchingFront;
     public float wallSlidingSpeed;
     public float CheckRadius = 0.2f;
     public float xWallForce;
@@ -127,7 +127,7 @@ public class PlayerController : MonoBehaviour
     {
         shooting = false;
 
-        if (Input.GetKey(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Space))
         {
             if (grounded)
             {
@@ -193,7 +193,15 @@ public class PlayerController : MonoBehaviour
         if (other.gameObject.CompareTag("MovingPlatform"))
         {
             this.transform.parent = other.transform;
+
         }
+        
+        /*needs to be in OnTrigger...if (other.gameObject.CompareTag("Teleport"))
+        {
+            Debug.Log("teleport");
+            //this.transform.parent = other.transform;
+            //this.transform.position = other.transform.GetChild(0).position;
+        }*/
     }
 
     private void OnCollisionExit2D(Collision2D other)
@@ -232,4 +240,5 @@ public class PlayerController : MonoBehaviour
     {
         wallJumping = false;
     }
+
 }

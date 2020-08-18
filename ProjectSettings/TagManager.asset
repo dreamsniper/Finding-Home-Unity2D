@@ -11,6 +11,7 @@ TagManager:
   - Enemy
   - Ground
   - Wall
+  - Teleport
   layers:
   - Default
   - TransparentFX
